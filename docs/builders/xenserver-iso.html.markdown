@@ -216,7 +216,7 @@ each category, the available options are alphabetized and described.
   If it doesn't shut down in this time, it is an error. By default, the timeout
   is "5m", or five minutes.
   
-  * `sr_name` (string) - The name of the storage repository to use for the template
+* `sr_name` (string) - The name of the storage repository to use for the template
   creation process. By default, an empty string is used for this parameter. An
   empty string uses the default storage repository(SR) in XenServer. 
 

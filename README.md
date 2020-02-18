@@ -104,4 +104,4 @@ packer build centos-6.6.json
 # Documentation
 
 For complete documentation on configuration commands, see either [the
-xenserver-iso docs](https://github.com/rdobson/packer-builder-xenserver/blob/master/docs/builders/xenserver-iso.html.markdown) or [the xenserver-xva docs](https://github.com/rdobson/packer-builder-xenserver/blob/master/docs/builders/xenserver-xva.html.markdown).
+xenserver-iso docs](https://github.com/rdobson/packer-builder-xenserver/blob/master/docs/builders/xenserver-iso.html.markdown) or [the xenserver-xva docs](https://github.com/kirannhegde/packer-builder-xenserver/blob/master/docs/builders/xenserver-xva.html.markdown).
